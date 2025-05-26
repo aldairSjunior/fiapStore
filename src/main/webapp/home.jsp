@@ -19,6 +19,6 @@
         <h5>Seu login foi efetuado com sucesso!</h5>
     </c:if>
 </div>
-<script src="resources/js/bootstrap.bundle.js"></script>
+<script src="resources/js/bootstrap.min.js"></script>
 </body>
 </html>
